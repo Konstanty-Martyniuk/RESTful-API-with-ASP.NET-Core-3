@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\const\\source\\repos\\CourseLibrary.API\\CourseLibrary.API\\CourseLibrary.API.csproj": {}
+    "I:\\OneDrive\\Документы\\GitHub\\CourseLibrary.API\\RESTful-API-with-ASP.NET-Core-3\\CourseLibrary.API\\CourseLibrary.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\const\\source\\repos\\CourseLibrary.API\\CourseLibrary.API\\CourseLibrary.API.csproj": {
+    "I:\\OneDrive\\Документы\\GitHub\\CourseLibrary.API\\RESTful-API-with-ASP.NET-Core-3\\CourseLibrary.API\\CourseLibrary.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\const\\source\\repos\\CourseLibrary.API\\CourseLibrary.API\\CourseLibrary.API.csproj",
+        "projectUniqueName": "I:\\OneDrive\\Документы\\GitHub\\CourseLibrary.API\\RESTful-API-with-ASP.NET-Core-3\\CourseLibrary.API\\CourseLibrary.API.csproj",
         "projectName": "CourseLibrary.API",
-        "projectPath": "C:\\Users\\const\\source\\repos\\CourseLibrary.API\\CourseLibrary.API\\CourseLibrary.API.csproj",
+        "projectPath": "I:\\OneDrive\\Документы\\GitHub\\CourseLibrary.API\\RESTful-API-with-ASP.NET-Core-3\\CourseLibrary.API\\CourseLibrary.API.csproj",
         "packagesPath": "C:\\Users\\const\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\const\\source\\repos\\CourseLibrary.API\\CourseLibrary.API\\obj\\",
+        "outputPath": "I:\\OneDrive\\Документы\\GitHub\\CourseLibrary.API\\RESTful-API-with-ASP.NET-Core-3\\CourseLibrary.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,6 +41,18 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.2, )"
