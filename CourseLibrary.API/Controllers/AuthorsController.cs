@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using CourseLibrary.API.Helpers;
 using CourseLibrary.API.Models;
+using CourseLibrary.API.ResourceParameters;
 using CourseLibrary.API.Services;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -26,9 +27,11 @@ namespace CourseLibrary.API.Controllers
                 throw new ArgumentNullException(nameof(mapper));
         }
         [HttpGet()]
-        public ActionResult<IEnumerable<AuthorDto>> GetAuthors()
+        [HttpHead]
+        public ActionResult<IEnumerable<AuthorDto>> GetAuthors([FromQuery] AuthorsResourceParameters authorsResourceParameters)
         {
-            var authorsFromRepo = _courseLibraryRepository.GetAuthors();
+            //throw new Exception("Test exception"); - test custom exception message 
+            var authorsFromRepo = _courseLibraryRepository.GetAuthors(authorsResourceParameters);
             return Ok(_mapper.Map<IEnumerable<AuthorDto>>(authorsFromRepo));
         }
 
@@ -42,6 +45,11 @@ namespace CourseLibrary.API.Controllers
             }
 
             return Ok(_mapper.Map<AuthorDto>(authorsFromRepo));
+        }
+        [HttpPost]
+        public ActionResult<AuthorDto> CreateAuthor(AthorForCreationDto athor)
+        {
+
         }
     }
 }
