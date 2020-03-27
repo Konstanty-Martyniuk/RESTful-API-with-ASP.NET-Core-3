@@ -50,7 +50,6 @@ C:\Users\const\source\repos\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcor
 C:\Users\const\source\repos\CourseLibrary.API\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.csprojAssemblyReference.cache
 I:\OneDrive\Документы\GitHub\CourseLibrary.API\RESTful-API-with-ASP.NET-Core-3\CourseLibrary.API\obj\Debug\netcoreapp3.1\staticwebassets\CourseLibrary.API.StaticWebAssets.Manifest.cache
 I:\OneDrive\Документы\GitHub\CourseLibrary.API\RESTful-API-with-ASP.NET-Core-3\CourseLibrary.API\obj\Debug\netcoreapp3.1\staticwebassets\CourseLibrary.API.StaticWebAssets.xml
-I:\OneDrive\Документы\GitHub\CourseLibrary.API\RESTful-API-with-ASP.NET-Core-3\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.MvcApplicationPartsAssemblyInfo.cache
 I:\OneDrive\Документы\GitHub\CourseLibrary.API\RESTful-API-with-ASP.NET-Core-3\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.AssemblyInfoInputs.cache
 I:\OneDrive\Документы\GitHub\CourseLibrary.API\RESTful-API-with-ASP.NET-Core-3\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.AssemblyInfo.cs
 I:\OneDrive\Документы\GitHub\CourseLibrary.API\RESTful-API-with-ASP.NET-Core-3\CourseLibrary.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
@@ -99,3 +98,9 @@ I:\OneDrive\Документы\GitHub\CourseLibrary.API\RESTful-API-with-ASP.NET
 I:\OneDrive\Документы\GitHub\CourseLibrary.API\RESTful-API-with-ASP.NET-Core-3\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.csproj.CopyComplete
 I:\OneDrive\Документы\GitHub\CourseLibrary.API\RESTful-API-with-ASP.NET-Core-3\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.dll
 I:\OneDrive\Документы\GitHub\CourseLibrary.API\RESTful-API-with-ASP.NET-Core-3\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.pdb
+I:\OneDrive\Документы\GitHub\CourseLibrary.API\RESTful-API-with-ASP.NET-Core-3\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.csprojAssemblyReference.cache
+I:\OneDrive\Документы\GitHub\CourseLibrary.API\RESTful-API-with-ASP.NET-Core-3\CourseLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+I:\OneDrive\Документы\GitHub\CourseLibrary.API\RESTful-API-with-ASP.NET-Core-3\CourseLibrary.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+I:\OneDrive\Документы\GitHub\CourseLibrary.API\RESTful-API-with-ASP.NET-Core-3\CourseLibrary.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+I:\OneDrive\Документы\GitHub\CourseLibrary.API\RESTful-API-with-ASP.NET-Core-3\CourseLibrary.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+I:\OneDrive\Документы\GitHub\CourseLibrary.API\RESTful-API-with-ASP.NET-Core-3\CourseLibrary.API\obj\Debug\netcoreapp3.1\CourseLibrary.API.MvcApplicationPartsAssemblyInfo.cache
